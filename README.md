@@ -1,3 +1,3 @@
-https://sno2wman.github.io/internet_heiwa.gif/
+[![ドナルドのくつって何センチ？](./src/question.png)](https://www.youtube.com/watch?v=p7ahq5cCREM&t=153s)
 
-https://www.irasutoya.com/2021/01/blog-post_366.html
+https://sno2wman.github.io/Ronald-Mcdonald-shoe-size/
